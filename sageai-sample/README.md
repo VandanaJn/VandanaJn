@@ -1,4 +1,4 @@
-# SageAI – Spiritual Companion
+<h1 align="center">SageAI – Spiritual Companion</h1>
 
 <p float="left">
   <img src="./images/sageai1.png" alt="Screenshot 1" width="300" />
