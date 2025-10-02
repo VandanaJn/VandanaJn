@@ -1,0 +1,46 @@
+{
+    "autobiography-of-a-yogi.pdf": {
+        "skip_pages": [
+            2,
+            3,
+            4,
+            364,
+            365
+        ],
+        "title": "Autobiography of a Yogi",
+        "author": "Paramahansa Yogananda",
+        "id_prefix": "autobiographyofayogi"
+    },
+    "God Talks with Arjuna Vol 1.pdf": {
+        "skip_pages": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ],
+        "title": "God Talks with Arjuna",
+        "author": "Paramahansa Yogananda",
+        "id_prefix": "godtalkswitharjuna1"
+    },
+    "Reiki Raja Yoga.pdf": {
+        "skip_pages": [
+            1
+        ],
+        "title": "Reiki Raja Yoga",
+        "author": "Shailesh Kumar",
+        "id_prefix": "reikirajayoga"
+    },
+    "DHC Intro.pdf": {
+        "skip_pages": [],
+        "title": "Divine Heart Center Website",
+        "author": "na",
+        "id_prefix": "dhcintro"
+    }
+}

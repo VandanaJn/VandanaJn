@@ -1,0 +1,10 @@
+# Vector DB
+PINECONE_API_KEY=
+PINECONE_INDEX=
+
+# OpenAI
+OPENAI_API_KEY=
+
+# App
+API_KEY=
+DOCUMENTS_FOLDER=./documents
