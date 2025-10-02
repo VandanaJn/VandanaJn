@@ -60,4 +60,4 @@ Framework for building **modular AI agents** that perform tasks, generate code, 
 
 ---
 
-⭐️ **Check out my projects and feel free to reach out if you’d like to collaborate!**
+⭐️ **Thanks for visiting my GitHub! If you find my work useful, feel free to star the repos.**

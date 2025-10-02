@@ -127,4 +127,4 @@ def main(files_to_ingest ):
     
 # --- RUN INGESTION ---
 if __name__ == "__main__":
-    main(["DHC Intro.pdf"])
+    main(["Sample.pdf"])
