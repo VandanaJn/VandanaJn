@@ -1,4 +1,4 @@
-# 🌟 VandanaJn – AI Agent & Backend Engineer
+# 🌟 VandanaJn – Full-Stack AI Agent & RAG Engineer
 
 I build **production-ready AI agents & RAG pipelines** using Python, FastAPI, Pinecone, LlamaIndex, and OpenAI.  
 I specialize in **conversational AI, document ingestion pipelines, and retrieval-augmented generation systems**.
