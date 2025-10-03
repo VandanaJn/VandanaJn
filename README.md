@@ -56,6 +56,7 @@ Framework for building **modular AI agents** that perform tasks, generate code, 
 
 ## 📬 Contact Me
 - 💼 Open to freelance / contract work  
+- 📧 vandana.jain.ai.dev@gmail.com  
 - 📬 Contact me via GitHub Discussions: [Contact / Freelance Inquiries](https://github.com/VandanaJn/VandanaJn/discussions/1)
 
 ---
