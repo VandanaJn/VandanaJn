@@ -4,6 +4,8 @@ I build **production-ready AI agents & RAG pipelines** using Python, FastAPI, Pi
 I specialize in **conversational AI, document ingestion pipelines, and retrieval-augmented generation systems**.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,11 +21,11 @@ I specialize in **conversational AI, document ingestion pipelines, and retrieval
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Python, C#, SQL, JavaScript, TypeScript, FastAPI, React  
-- **AI & RAG Pipelines:** LlamaIndex, LangChain, OpenAI GPT-4o-mini, AI Agents, Prompt Engineering, Milvus, Hugging Face  
+- **AI & RAG Pipelines:** LlamaIndex, LangChain, OpenAI GPT-4o-mini, AI Agents, Prompt Engineering, Milvus, Pinecone
 - **Cloud & Deployment:**  
-  - **AWS:** Lambda, API Gateway, CDK, Glue, S3, SNS/SQS, Athena  
+  - **AWS:** Lambda, API Gateway, CDK, Glue, S3, EventBridge, Athena  
   - **GCP:** Cloud Run  
-  - **Containers & DevOps:** Docker, CI/CD, CodePipeline, CodeBuild
+  - **Containers & DevOps:** Docker, CI/CD - CodePipeline, CodeBuild
 - **Databases:** PostgreSQL, Oracle, DynamoDB  
 - **Other Skills:** Observability, structured logging, PII masking, cost optimization, Agile practices, mentoring  
 
