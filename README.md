@@ -17,18 +17,18 @@ I specialize in **conversational AI, document ingestion pipelines, and retrieval
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python  
-- **Backend:** FastAPI  
-- **Frontend:** React + TypeScript (Vercel)  
-- **RAG & Agents:** LlamaIndex, Pinecone  
-- **LLM:** OpenAI GPT-4o-mini  
+
+- **Languages & Frameworks:** Python, C#, SQL, JavaScript, TypeScript, FastAPI, React  
+- **AI & RAG Pipelines:** LlamaIndex, LangChain, OpenAI GPT-4o-mini, AI Agents, Prompt Engineering, Milvus, Hugging Face  
 - **Cloud & Deployment:**  
+  - **AWS:** Lambda, API Gateway, CDK, Glue, S3, SNS/SQS, Athena  
   - **GCP:** Cloud Run  
-  - **AWS:** Lambda, API Gateway, CDK, SNS/SQS, EventBridge, Glue, S3, Athena  
-  - **Containers:** Docker  
-- **Other Skills:** Observability, Structured Logging, PII Masking, Cost Optimization  
+  - **Containers & DevOps:** Docker, CI/CD, CodePipeline, CodeBuild
+- **Databases:** PostgreSQL, Oracle, DynamoDB  
+- **Other Skills:** Observability, structured logging, PII masking, cost optimization, Agile practices, mentoring  
 
 ---
+
 
 
 ## 🌟 Featured Projects
