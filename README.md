@@ -9,19 +9,27 @@ I specialize in **conversational AI, document ingestion pipelines, and retrieval
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python  
 - **Backend:** FastAPI  
-- **Frontend:** React + TypeScript(Vercel)  
+- **Frontend:** React + TypeScript (Vercel)  
 - **RAG & Agents:** LlamaIndex, Pinecone  
 - **LLM:** OpenAI GPT-4o-mini  
-- **Deployment:** GCP Cloud Run, Docker  
-- **Other Skills:** Observability, structured logging, PII masking  
+- **Cloud & Deployment:**  
+  - **GCP:** Cloud Run  
+  - **AWS:** Lambda, API Gateway, CDK, SNS/SQS, EventBridge, Glue, S3, Athena  
+  - **Containers:** Docker  
+- **Other Skills:** Observability, Structured Logging, PII Masking, Cost Optimization  
 
 ---
+
 
 ## 🌟 Featured Projects
 
