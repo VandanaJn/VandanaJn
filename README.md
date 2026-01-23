@@ -1,80 +1,100 @@
-# 🌟 Vandana Jain | Full-Stack AI Agent & RAG Engineer
+# Hi, I’m Vandana 👋
 
-I build **production-ready AI agents & RAG pipelines** using Python, FastAPI, Pinecone, LlamaIndex, and OpenAI.  
-I specialize in **conversational AI, document ingestion pipelines, and retrieval-augmented generation systems**.
-
-<!-- Row 1: Languages & Frameworks -->
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-<br>
-
-<!-- Row 2: Frameworks, AI, Cloud & DevOps -->
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-
+Senior AI Engineer · Agentic Systems & AI Platforms · Technical Lead  
+Building production-grade AI systems that work in real-world enterprise environments.
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-- **Languages & Frameworks:** Python, C#, SQL, JavaScript, TypeScript, FastAPI, React  
-- **AI & RAG Pipelines:** LlamaIndex, LangChain, OpenAI GPT-4o-mini, AI Agents, Prompt Engineering, Milvus, Pinecone
-- **Cloud & Deployment:**  
-  - **AWS:** Lambda, API Gateway, CDK, Glue, S3, EventBridge, Athena  
-  - **GCP:** Cloud Run  
-  - **Containers & DevOps:** Docker, CI/CD - CodePipeline, CodeBuild
-- **Databases:** PostgreSQL, Oracle, DynamoDB  
-- **Other Skills:** Observability, structured logging, PII masking, cost optimization, Agile practices, mentoring  
+I’m a Technical Lead and Senior AI Engineer with **20+ years of experience** designing, building, and operating **large-scale enterprise systems**, now focused on **agentic AI, LLM platforms, and Retrieval-Augmented Generation (RAG)**.
+
+My work lives at the intersection of **AI innovation and engineering rigor**—moving systems from prototypes to **secure, observable, and reliable production deployments**. I enjoy solving complex, high-stakes problems where AI must integrate cleanly with existing platforms, APIs, and operational constraints.
+
+I’m known for **IC+ leadership**: owning architecture end-to-end, mentoring engineers, and delivering systems that create measurable business value.
 
 ---
 
+## 🔍 Current Focus Areas
 
-
-## 🌟 Featured Projects
-
-### 1. SageAI – Spiritual Companion 🌿
-AI-powered chat assistant delivering **personalized spiritual guidance**.  
-- Uses **RAG with Pinecone + LlamaIndex** to reference sacred texts.  
-- Provides **context-aware, reflective conversations**.  
-- Tech stack: React (Vercel), FastAPI (Cloud Run), Pinecone, LlamaIndex, OpenAI GPT-4o-mini.  
-- **Note:** Full project is private; sample code included in this repo.  
-- [Sample Code](./sageai-sample)
+- Agentic and tool-using AI systems  
+- LLM orchestration, evaluation, and guardrails  
+- Enterprise RAG with strong grounding and trust guarantees  
+- Cloud-native, event-driven AI platforms  
+- Production reliability, observability, and security  
 
 ---
 
-### 2. PDF Ingestion Agent – PDF to Vector Store 📄
-Pipeline for **ingesting PDF documents into a vector database** for later querying.  
-- Loads PDFs, filters pages based on configuration, and converts text into **sentence-window nodes**.  
-- Inserts nodes into a **Pinecone vector index** for efficient retrieval by AI agents.  
-- Tech stack: Python, Pinecone, LlamaIndex, OpenAI.  
-- **Note:** Full project is private; sample code included in this repo.  
-- [Sample Code](./pdfingest-sample)
+## 🚀 Featured Projects
+
+### 🔹 Repo Navigator AI
+**Agentic GitHub repository exploration and analysis**
+
+Repo Navigator AI is a **tool-driven, multi-agent system** that helps engineers explore and understand GitHub repositories by **interacting directly with the GitHub API**, rather than pre-ingesting or indexing code.
+
+**What it does**
+- Uses specialized agents to navigate repositories, files, commits, and pull requests
+- Dynamically retrieves code and metadata via GitHub API tools
+- Provides source-aware, explainable responses grounded in live repository state
+- Designed for architectural reasoning, onboarding, and codebase comprehension
+
+**Why it matters**
+- Avoids stale indexes and heavy ingestion pipelines  
+- Mirrors how engineers actually explore real repositories  
+- Emphasizes correctness, traceability, and tool-based reasoning
+
+👉 Repo: https://github.com/VandanaJn/Repo-Navigator-AI
 
 ---
 
-### 3. AI Agent – Modular Sandbox 🤖
-Framework for building **modular AI agents** that perform tasks, generate code, and summarize information.  
-- Supports **CLI and Streamlit interfaces** for interacting with agents.  
-- Demonstrates **tool orchestration and extensible agent design**.  
-- Tech stack: Python, Streamlit, NLP, OpenAI.  
-- [Repo](https://github.com/VandanaJn/ai-agent)  
+### 🔹 Sage AI
+**Source-grounded RAG assistant with enterprise guardrails**
+
+Sage AI is a **Retrieval-Augmented Generation (RAG)** system designed to deliver **trustworthy, source-backed answers** over curated knowledge bases.
+
+**Highlights**
+- Emphasis on grounding, citation, and hallucination reduction
+- Designed with enterprise-grade guardrails and secure data handling
+- Focus on observability, prompt discipline, and predictable behavior
+- Built to be extended into production workflows rather than demos
+
+Sage AI reflects my approach to RAG: **accuracy over cleverness**, and systems that can be safely deployed in real organizations.
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandana-jain-b44581388/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandana.jain.ai.dev@gmail.com)
+## 🛠 Core Technical Stack
+
+**AI & Agentic Systems**  
+Multi-agent architectures, tool calling, RAG, LLM orchestration and evaluation  
+Google Vertex AI (ADK), AWS Bedrock, LangChain, LlamaIndex
+
+**Cloud & Distributed Platforms**  
+AWS (Lambda, SNS/SQS, API Gateway, CDK, S3, DynamoDB)  
+GCP (Vertex AI, Cloud Run)  
+Event-driven and serverless architectures
+
+**Backend & Data**  
+Python, FastAPI, C#, SQL, PostgreSQL, Oracle, DynamoDB  
+High-throughput, low-latency enterprise systems
+
+**Platform Engineering**  
+Docker, CI/CD (GitHub Actions, CodeBuild, CodePipeline)  
+Infrastructure as Code, observability, secure logging, authN/authZ
 
 ---
 
-⭐️ **Thanks for visiting my GitHub! If you find my work useful, feel free to star the repos.**
+## 🧠 Engineering Principles
+
+- **Production-first AI**: reliability, security, and observability are mandatory  
+- **Tooling over guessing**: agents should act, not hallucinate  
+- **Systems thinking**: AI is part of a platform, not a feature  
+- **Ownership mindset**: design it, ship it, support it  
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/vandana-jain-b44581388  
+- GitHub: https://github.com/VandanaJn  
+
+If you’re building **enterprise AI platforms**, **agentic systems**, or **customer-facing AI deployments**, I’m always happy to exchange ideas.
