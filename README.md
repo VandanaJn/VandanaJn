@@ -1,100 +1,45 @@
-# Hi, I’m Vandana 👋
-
-Senior AI Engineer · Agentic Systems & AI Platforms · Technical Lead  
-Building production-grade AI systems that work in real-world enterprise environments.
+﻿# Vandana Jain
+**Senior AI Engineer & Technical Instructor** *Building and teaching the next generation of production-grade AI systems.*
 
 ---
 
-## 👩‍💻 About Me
-
-I’m a Technical Lead and Senior AI Engineer with **20+ years of experience** designing, building, and operating **large-scale enterprise systems**, now focused on **agentic AI, LLM platforms, and Retrieval-Augmented Generation (RAG)**.
-
-My work lives at the intersection of **AI innovation and engineering rigor**—moving systems from prototypes to **secure, observable, and reliable production deployments**. I enjoy solving complex, high-stakes problems where AI must integrate cleanly with existing platforms, APIs, and operational constraints.
-
-I’m known for **IC+ leadership**: owning architecture end-to-end, mentoring engineers, and delivering systems that create measurable business value.
+### 📝 Professional Summary
+Technical Lead and Senior AI Engineer with **20+ years of experience** in large-scale enterprise systems. I specialize in Agentic AI, LLM platforms, and RAG, moving systems from **fragile prototypes to secure, observable, and resilient production deployments.** As an instructor, I bridge the gap between "code that works" and "architectural excellence"—empowering engineering teams to master reliable agent orchestration through evaluation-driven design and structural code boundaries.
 
 ---
 
-## 🔍 Current Focus Areas
+### 🚀 Featured AI Portfolio
 
-- Agentic and tool-using AI systems  
-- LLM orchestration, evaluation, and guardrails  
-- Enterprise RAG with strong grounding and trust guarantees  
-- Cloud-native, event-driven AI platforms  
-- Production reliability, observability, and security  
+#### [Repo Navigator AI](https://github.com/VandanaJn/Repo-Navigator-AI) | [Presentation](https://www.youtube.com/watch?v=54rGWONRcgc)
+*Autonomous multi-agent system built using the Google Agent Development Kit (ADK) to replace manual repository exploration with instant architectural insights.*
+* **The Architecture:** Designed a "Root Agent" that intelligently delegates tasks to specialized sub-agents.
+* **Production Focus:** Implemented context window management (memory compaction) and integration testing with deterministic tool responses to prevent agent drift.
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 Repo Navigator AI
-**Agentic GitHub repository exploration and analysis**
-
-Repo Navigator AI is a **tool-driven, multi-agent system** that helps engineers explore and understand GitHub repositories by **interacting directly with the GitHub API**, rather than pre-ingesting or indexing code.
-
-**What it does**
-- Uses specialized agents to navigate repositories, files, commits, and pull requests
-- Dynamically retrieves code and metadata via GitHub API tools
-- Provides source-aware, explainable responses grounded in live repository state
-- Designed for architectural reasoning, onboarding, and codebase comprehension
-
-**Why it matters**
-- Avoids stale indexes and heavy ingestion pipelines  
-- Mirrors how engineers actually explore real repositories  
-- Emphasizes correctness, traceability, and tool-based reasoning
-
-👉 Repo: https://github.com/VandanaJn/Repo-Navigator-AI
+#### [Sage AI](https://github.com/VandanaJn/Sage-AI) | [Sage AI Sample](https://github.com/VandanaJn/VandanaJn/tree/main/sageai-sample)
+*A production-grade RAG pipeline providing source-grounded reflections on meditation and inner growth.*
+* **The Stack:** React, FastAPI, LlamaIndex, Pinecone, OpenAI GPT-4o-mini.
+* **Innovation:** Utilizes **Sentence Window Parsing** to optimize vector database ingestion, prioritizing architectural boundaries and factual accuracy over unpredictable generation.
 
 ---
 
-### 🔹 Sage AI
-**Source-grounded RAG assistant with enterprise guardrails**
+### 📺 Instructional Leadership
+I teach through the lens of software architecture rather than just syntax. 
 
-Sage AI is a **Retrieval-Augmented Generation (RAG)** system designed to deliver **trustworthy, source-backed answers** over curated knowledge bases.
-
-**Highlights**
-- Emphasis on grounding, citation, and hallucination reduction
-- Designed with enterprise-grade guardrails and secure data handling
-- Focus on observability, prompt discipline, and predictable behavior
-- Built to be extended into production workflows rather than demos
-
-Sage AI reflects my approach to RAG: **accuracy over cleverness**, and systems that can be safely deployed in real organizations.
+* **[Python Decorators Finally Make Sense](https://www.youtube.com/watch?v=YhY3FDiwh-k):** Beyond basic syntax—how to use decorators as structural boundaries for resilient software. Features a self-healing `@retry` decorator designed to handle AI and network API instability.
 
 ---
 
-## 🛠 Core Technical Stack
-
-**AI & Agentic Systems**  
-Multi-agent architectures, tool calling, RAG, LLM orchestration and evaluation  
-Google Vertex AI (ADK), AWS Bedrock, LangChain, LlamaIndex
-
-**Cloud & Distributed Platforms**  
-AWS (Lambda, SNS/SQS, API Gateway, CDK, S3, DynamoDB)  
-GCP (Vertex AI, Cloud Run)  
-Event-driven and serverless architectures
-
-**Backend & Data**  
-Python, FastAPI, C#, SQL, PostgreSQL, Oracle, DynamoDB  
-High-throughput, low-latency enterprise systems
-
-**Platform Engineering**  
-Docker, CI/CD (GitHub Actions, CodeBuild, CodePipeline)  
-Infrastructure as Code, observability, secure logging, authN/authZ
+### 🛠️ Core Technical Expertise
+* **AI Orchestration:** Google ADK, LangChain, LlamaIndex, Vertex AI, Multi-agent architectures.
+* **Production RAG:** Advanced grounding, citations, and hallucination reduction.
+* **Cloud Infrastructure:** AWS (Bedrock, Lambda, CDK, DynamoDB) & GCP (Vertex AI, Cloud Run).
+* **Leadership:** IC+ style, owning end-to-end architecture while mentoring teams to deliver measurable value.
 
 ---
 
-## 🧠 Engineering Principles
-
-- **Production-first AI**: reliability, security, and observability are mandatory  
-- **Tooling over guessing**: agents should act, not hallucinate  
-- **Systems thinking**: AI is part of a platform, not a feature  
-- **Ownership mindset**: design it, ship it, support it  
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/vandanajain](https://www.linkedin.com/in/vandana-jain-b44581388)
+* **YouTube:** [youtube.com/@VandanaCodes](https://www.youtube.com/@VandanaCodes)
 
 ---
-
-## 📫 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/vandana-jain-b44581388  
-- GitHub: https://github.com/VandanaJn  
-
-If you’re building **enterprise AI platforms**, **agentic systems**, or **customer-facing AI deployments**, I’m always happy to exchange ideas.
+*“Precision over prediction. Architecture over syntax.”*
